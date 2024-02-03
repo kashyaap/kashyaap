@@ -1,6 +1,5 @@
 <h2>Hi, I'm Abhinav Kashyap.</h2>
-
-I'm a Full Stack Developer with a passion for innovation in <b>Tech | Design | Art</b>.
+I'm a Full Stack Developer with a passion for innovation in <b> 🕹️Tech </b> | <b> 🏛️ Design  </b> | <b> 🎭 Art</b>.
 
 <!-- Your Python script or any other information can go here -->
 

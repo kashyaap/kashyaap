@@ -19,7 +19,8 @@ class DeveloperProfile:
     def introduce(self):
         introduction = (
             f"Hey, I'm {self.name}, a {self.role} with a knack for {self.passion}.\n"
-            f"I enjoy the journey of coding — transforming ideas into reality and continuously learning along the way.\n"
+            f"I enjoy the journey of coding — transforming ideas into reality and
+            continuously learning along the way.\n"
             f"Beyond code, I recharge by {self.hobbies}.\n"
             f"Always up for a chat about tech or art. Let's connect!\n"
         )

@@ -6,7 +6,7 @@ I'm a Full Stack Developer with a passion for innovation in <b> 🕹️Tech </b>
 ### Reach me on:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/kashyaap)
 [![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://kashyaap.medium.com)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kashyaap13@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kkashyapofficial@gmail.com)
 ```python
 class DeveloperProfile:
     def __init__(self, name, role, passion, hobbies):
